@@ -6,10 +6,13 @@ function Top(){
                     <a href={"/page1"}>기준 관리</a>
                 </li>
                 <li>
-                    <a href={"/page2"}>계약 관리</a>
+                    <a href={"/page2"}>계약 관리1</a>
                 </li>
                 <li>
-                    
+                    <a href={"/page2"}>계약 관리2</a>
+                </li>
+                <li>
+
                 </li>
                 <li>
                     <a href={"/#"}>Menu 4</a>
