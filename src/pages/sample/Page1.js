@@ -5,16 +5,16 @@ import { FormGroup, Form, Row, Col, Button } from 'reactstrap';
 function Page1(){
     return (
         <SearchArea />
-
+        //주석추가
         // <div>
-        //     <Selector 
+        //     <Selector
         //         label = "이름"
         //         id = "name"
         //         name = "name"
         //         type = "text"
         //         />
         //     <Selector label = "연락처" />
-        
+
         //     <div className="contents"><h2>Page11111111111</h2></div>
         // </div>
     );
